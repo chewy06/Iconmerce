@@ -1,5 +1,7 @@
 # iconmerce
+#Origianl git repo found at: https://github.com/ypan92/iconmerce
 Senior Project repository for icon ecommerce app - iconmerce
+
 
 This project included 3 separate yet related entities:
 iconmerce-ui, iconmerce-api, and iconmerce-ios
